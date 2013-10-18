@@ -16,6 +16,3 @@
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
  5. Star messages that are too specific to understand in general context, or random messages without interest.
  6. Ignore the "Chatroom Don'ts".
- 7. Greet with "good evening" when you enter the room.
-
- 
