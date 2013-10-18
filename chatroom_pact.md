@@ -6,8 +6,7 @@
  1. Use [viper-7.com](http://codepad.viper-7.com), [eval.in](http://eval.in), [pastie.org](http://pastie.org/) or [3v4l.org](http://3v4l.org/) to post code when asking for help.
  2. [Format your code](http://chat.stackoverflow.com/faq#formatting) when asking for help.
  3. Be respectful toward everyone you engage.
- 4. 
- 5. Extend charity outward to the SO community; if you get help, then help someone else.
+ 4. Extend charity outward to the SO community; if you get help, then help someone else.
 
 ### Chatroom Dont's :
  1. Dump a link to your SO question (spamming).
