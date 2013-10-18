@@ -1,4 +1,4 @@
-> **Editors:** add, edit these the contents of this file. New visitors who are not familiar with the many things frowned upon in chat can be guided to this page which will be linked in chat. Hopefully, this way we aren't repeating outselves as much and will help new people as a reference on how to conduct themselves.
+> **Editors:** add, edit these the contents of this file. New visitors who are not familiar with the many things frowned upon in chat can be guided to this page which will be linked in chat. Hopefully, this way we aren't repeating outselves as much and will help new people as a reference on how to conduct themselves. Let's keep the list and its items **short and concise**.
 
 ## [PHP Chatroom](http://chat.stackoverflow.com/rooms/11/php) Pact
 
