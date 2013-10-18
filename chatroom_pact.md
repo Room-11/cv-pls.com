@@ -7,6 +7,7 @@
  2. [Format your code](http://chat.stackoverflow.com/faq#formatting) when asking for help.
  3. Be respectful toward everyone you engage.
  4. Extend charity outward to the SO community; if you get help, then help someone else.
+ 5. Greet with "good morning" (or other non day-time based greeting) regardless of your local time. See [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html).
 
 ### Chatroom Don'ts :
  1. Dump a link to your SO question (spamming).
@@ -15,6 +16,6 @@
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
  5. Star messages that are too specific to understand in general context, or random messages without interest.
  6. Ignore the "Chatroom Don'ts".
- 7. Greet with "good evening" when you enter the room
+ 7. Greet with "good evening" when you enter the room.
 
  
