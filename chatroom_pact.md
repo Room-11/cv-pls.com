@@ -14,6 +14,7 @@
  2. Randomly ping people. Particularly, don't ping many people at once (usually you're just being nice, but it's annoying).
  3. Ask to ask a question. "I have a problem, can anyone help?!"
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
- 5. Ignore the "Chatroom Dont's".
+ 5. Star messages that are too specific to understand in general context, or random messages without interest.
+ 6. Ignore the "Chatroom Dont's".
 
  
