@@ -1,5 +1,3 @@
-> **Editors:** add, edit these the contents of this file. New visitors who are not familiar with the many things frowned upon in chat can be guided to this page which will be linked in chat. Hopefully, this way we aren't repeating outselves as much and will help new people as a reference on how to conduct themselves. Let's keep the list and its items **short and concise** http://tiny.cc/chatroom-pact.
-
 ## [PHP Chatroom](http://chat.stackoverflow.com/rooms/11/php) Pact
 
 ### Chatroom Dos :
@@ -7,13 +5,13 @@
  2. [Format your code](http://chat.stackoverflow.com/faq#formatting) when asking for help.
  3. Be respectful toward everyone you engage.
  4. Extend charity outward to the SO community; if you get help, then help someone else.
- 5. Greet with "good morning" (or other non day-time based greeting) regardless of your local time. See [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html).
- 6. GIFs or large images, should be un-markdowned before edit time expires. Append `?x` to file extension.
+ 5. Greet with *"good morning"* (or other non day-time based greeting) regardless of your local time. See [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html).
+ 6. *Large* images (includes GIFs), should be un-markdowned by appending `?x` to file extension.
 
 ### Chatroom Don'ts :
  1. Dump a link to your SO question (spamming).
  2. Randomly ping people. Particularly, don't ping many people at once (usually you're just being nice, but it's annoying).
- 3. Ask to ask a question. "I have a problem, can anyone help?!"
+ 3. Ask to ask a question. *"I have a problem, can anyone help?!"*
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
  5. Star messages that are too specific to understand in general context, or random messages without interest.
  6. Ignore the "Chatroom Don'ts".
