@@ -8,6 +8,7 @@
  3. Be respectful toward everyone you engage.
  4. Extend charity outward to the SO community; if you get help, then help someone else.
  5. Greet with "good morning" (or other non day-time based greeting) regardless of your local time. See [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html).
+ 6. GIFs or large images, should be un-markdowned before edit time expires. Append `?x` to file extension.
 
 ### Chatroom Don'ts :
  1. Dump a link to your SO question (spamming).
