@@ -9,7 +9,7 @@
  6. *Large* images (includes GIFs), should be un-markdowned by appending `?x` to file extension.
 
 ### Chatroom Don'ts :
- 1. Dump a link to your SO question (spamming).
+ 1. Dump a link to your question (spamming).
  2. Randomly ping people. Particularly, don't ping many people at once (usually you're just being nice, but it's annoying).
  3. Ask to ask a question. *"I have a problem, can anyone help?!"*
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
