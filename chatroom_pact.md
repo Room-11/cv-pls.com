@@ -14,4 +14,5 @@
  3. Ask to ask a question. *"I have a problem, can anyone help?!"*
  4. Repeat the same question. Every 30 seconds, since no-one replied to you yet!
  5. Star messages that are too specific to understand in general context, or random messages without interest.
+ 6. Use the room as a replacement for the main site. We are not the question banned users refugee camp.
  6. Ignore the "Chatroom Don'ts".
