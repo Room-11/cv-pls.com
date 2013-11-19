@@ -1,4 +1,6 @@
-## [PHP Chatroom](http://chat.stackoverflow.com/rooms/11/php) Pact
+> These lists are **not** meant to be rules, but rather *guidelines* on proper etiquette for the [PHP Chatroom](http://chat.stackoverflow.com/rooms/11/php). However, repeated abuse in the chat may result in your message(s) being removed. Following them helps keeps the room clutter free, user friendly, and reduces annoyances. In addition, not following them when asking for help will most certainly work against you, as you will be disrupting the chat for others. We kindly ask that you follow them to make the chatroom a place that everybody can enjoy. Thank you for your cooperation.
+
+## PHP Chatroom Pact
 
 ### Chatroom Dos :
 <a name='do-1' href='#do-1'>**1.**</a> Use [viper-7.com](http://codepad.viper-7.com), [eval.in](http://eval.in), [pastie.org](http://pastie.org/), [3v4l.org](http://3v4l.org/) or [pastebin.com](http://pastebin.com/) to post code when asking for help.<br>
@@ -6,7 +8,7 @@
 <a name='do-3' href='#do-3'>**3.**</a> Be respectful toward everyone you engage.<br>
 <a name='do-4' href='#do-4'>**4.**</a> Extend charity outward to the SO community; if you get help, then help someone else.<br>
 <a name='do-5' href='#do-5'>**5.**</a> Greet with *"good morning"* (or other non day-time based greeting) regardless of your local time. See [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html).<br>
-<a name='do-6' href='#do-6'>**6.**</a> *Large* images (includes GIFs), should be un-markdowned by appending `?x` to file extension.<br>
+<a name='do-6' href='#do-6'>**6.**</a> *Large* images (includes animated GIFs), should be un-markdowned by appending `?x` to file extension.<br>
 
 ### Chatroom Don'ts :
 <a name='dont-1' href='#dont-1'>**1.**</a> Dump a link to your question (spamming).<br>
