@@ -1,4 +1,4 @@
-This serves as quick reference for chat owners, and to make it easy for us to modify it for future use. I trimmed it down a bit to add a tools section as well. Make whatever changes are needed.<hr>
+This serves as quick reference for chat owners, and to make it easy for us to modify it for future use. Make whatever changes are needed.<hr>
 
 **Things to keep in mind:**
  - 500 char limit
