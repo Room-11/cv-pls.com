@@ -1,3 +1,5 @@
+**Related: http://meta.stackoverflow.com/questions/209325/remove-truncation-for-pinned-chat-messages**
+
 This serves as quick reference for chat owners, and to make it easy for us to modify it for future use. Make whatever changes are needed.<hr>
 
 **Things to keep in mind:**
