@@ -18,7 +18,6 @@
 <a name='dont-5' href='#dont-5'>**5.**</a> Star messages that are too specific to understand in general context, or random messages without interest.<br>
 <a name='dont-6' href='#dont-6'>**6.**</a> Use the room as a replacement for the main site. We are not the question banned users refugee camp.<br>
 <a name='dont-7' href='#dont-7'>**7.**</a> Start religious or political discussions. *(go make your own room)*<br>
-
 <a name='dont-8' href='#dont-8'>**8.**</a> Ignore the "Chatroom Don'ts".<br>
 
 
@@ -26,4 +25,4 @@
 using #anchor will be able to scroll directly to even last item. If you know of
 a better way to do this, please edit. -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
