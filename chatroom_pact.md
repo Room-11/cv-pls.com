@@ -18,7 +18,8 @@
 <a name='dont-5' href='#dont-5'>**5.**</a> Star messages that are too specific to understand in general context, or random messages without interest.<br>
 <a name='dont-6' href='#dont-6'>**6.**</a> Use the room as a replacement for the main site. We are not the question banned users refugee camp.<br>
 <a name='dont-7' href='#dont-7'>**7.**</a> Start religious or political discussions. *(go make your own room)*<br>
-<a name='dont-8' href='#dont-8'>**8.**</a> Ignore the "Chatroom Don'ts".<br>
+<a name='dont-8' href='#dont-8'>**8.**</a> Allow <a href="http://chat.stackoverflow.com/users/1658631/joe-watkins">Joe</a> to use git on Monday mornings; he will ruin **everything**<br>
+<a name='dont-9' href='#dont-9'>**9.**</a> Ignore the "Chatroom Don'ts".<br>
 
 
 <!-- don't remove below. It's so the page is long enough that scrolling to tiem 
