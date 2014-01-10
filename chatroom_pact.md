@@ -3,7 +3,7 @@
 ## PHP Chatroom Pact
 
 ### Chatroom Dos :
-<a name='do-1' href='#do-1'>**1.**</a> Use [viper-7.com](http://codepad.viper-7.com), [eval.in](http://eval.in), [pastie.org](http://pastie.org/), [3v4l.org](http://3v4l.org/), [gist.github.com](https://gist.github.com/) or [pastebin.com](http://pastebin.com/) to post code when asking for help.<br>
+<a name='do-1' href='#do-1'>**1.**</a> Use [eval.in](http://eval.in), [pastie.org](http://pastie.org/), [3v4l.org](http://3v4l.org/), [gist.github.com](https://gist.github.com/) or [pastebin.com](http://pastebin.com/) to post code when asking for help.<br>
 <a name='do-2' href='#do-2'>**2.**</a> [Format your code](http://chat.stackoverflow.com/faq#formatting) when asking for help.<br>
 <a name='do-3' href='#do-3'>**3.**</a> Be respectful toward everyone you engage.<br>
 <a name='do-4' href='#do-4'>**4.**</a> Extend charity outward to the SO community; if you get help, then help someone else.<br>
