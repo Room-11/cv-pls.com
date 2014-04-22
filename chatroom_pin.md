@@ -8,10 +8,10 @@ This serves as quick reference for chat owners, and to make it easy for us to mo
  
 **Demo:**
 
-> **cv-pls**: [Docs](http://j.mp/18eUa3Q), [Backlog](http://cv-pls.com/backlog) | **Tools**: [Explain](http://j.mp/HImzVs), [phpdbg](http://phpdbg.com/) | **Addons**: [\[cv-pls\]](https://cv-pls.pieterhordijk.com/), [PHP Manual Linkifier](http://j.mp/1d40atb) | **Snippets**: [ext/mysql](https://gist.github.com/3881905) | **Reference**: [Errors](http://stackoverflow.com/q/12769982), [Operators](http://stackoverflow.com/q/3737139)
+> **cv-pls**: [Docs](http://j.mp/18eUa3Q), [Backlog](http://php.cv-pls.com/) | **Tools**: [Explain](http://j.mp/HImzVs), [phpdbg](http://phpdbg.com/), http://devdocs.io/ | **Addons**: [\[cv-pls\]](https://cv-pls.pieterhordijk.com/), [PHP Manual Linkifier](http://j.mp/1d40atb) | **Snippets**: [ext/mysql](https://gist.github.com/3881905) | **Reference**: [QAs](http://room-11.github.io/canonical.html) 
 
 **Markdown:**
 
 ```markdown
-**cv-pls**: [Docs](http://j.mp/18eUa3Q), [Backlog](http://cv-pls.com/backlog) | **Tools**: [Explain](http://j.mp/HImzVs), [phpdbg](http://phpdbg.com/) | **Addons**: [\[cv-pls\]](https://cv-pls.pieterhordijk.com/), [PHP Manual Linkifier](http://j.mp/1d40atb) | **Snippets**: [ext/mysql](https://gist.github.com/3881905) | **Reference**: [Errors](http://stackoverflow.com/q/12769982), [Operators](http://stackoverflow.com/q/3737139)
+**cv-pls**: [Docs](http://j.mp/18eUa3Q), [Backlog](http://php.cv-pls.com/) | **Tools**: [Explain](http://j.mp/HImzVs), [phpdbg](http://phpdbg.com/), http://devdocs.io/ | **Addons**: [\[cv-pls\]](https://cv-pls.pieterhordijk.com/), [PHP Manual Linkifier](http://j.mp/1d40atb) | **Snippets**: [ext/mysql](https://gist.github.com/3881905) | **Reference**: [QAs](http://room-11.github.io/canonical.html) 
 ```
